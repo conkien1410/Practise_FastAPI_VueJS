@@ -1,0 +1,5 @@
+info/node_modules/
+InfoAPI/bin/
+InfoAPI/obj/
+venv/
+Distutils.egg-info/
